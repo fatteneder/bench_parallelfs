@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# ARA
+module load mpi/openmpi/5.0.2/gcc
